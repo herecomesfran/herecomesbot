@@ -1,0 +1,15 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "herecomesbot project",
+  "main": "twitterbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franziska Zeiner",
+  "license": "ISC",
+  "dependencies": {
+    "rita": "^1.1.51",
+    "twit": "^2.2.5"
+  }
+}
